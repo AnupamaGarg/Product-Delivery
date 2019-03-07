@@ -1,0 +1,11 @@
+C:\Users\dolly\workspace\csharp\exercises\Classes\bin\Debug\netcoreapp2.2\Classes.deps.json
+C:\Users\dolly\workspace\csharp\exercises\Classes\bin\Debug\netcoreapp2.2\Classes.runtimeconfig.json
+C:\Users\dolly\workspace\csharp\exercises\Classes\bin\Debug\netcoreapp2.2\Classes.runtimeconfig.dev.json
+C:\Users\dolly\workspace\csharp\exercises\Classes\bin\Debug\netcoreapp2.2\Classes.dll
+C:\Users\dolly\workspace\csharp\exercises\Classes\bin\Debug\netcoreapp2.2\Classes.pdb
+C:\Users\dolly\workspace\csharp\exercises\Classes\obj\Debug\netcoreapp2.2\Classes.csprojAssemblyReference.cache
+C:\Users\dolly\workspace\csharp\exercises\Classes\obj\Debug\netcoreapp2.2\Classes.csproj.CoreCompileInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\Classes\obj\Debug\netcoreapp2.2\Classes.AssemblyInfoInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\Classes\obj\Debug\netcoreapp2.2\Classes.AssemblyInfo.cs
+C:\Users\dolly\workspace\csharp\exercises\Classes\obj\Debug\netcoreapp2.2\Classes.dll
+C:\Users\dolly\workspace\csharp\exercises\Classes\obj\Debug\netcoreapp2.2\Classes.pdb
