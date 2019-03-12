@@ -24,8 +24,10 @@ public class Employee
     LastName= lastName;
     Title= title;
     StartDate= startDate;
-    //  Console.WriteLine($"this is in employee  {FirstName} {LastName}, {Title}, started on {StartDate}");
+    
 }
+
+
 
         
 }

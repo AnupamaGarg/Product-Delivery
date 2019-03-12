@@ -23,13 +23,30 @@ public class Company
      public Company ( String name, DateTime createdOn){
          Name=name;
          CreatedOn = createdOn;
-         
+         EmployeeList= new List<Employee>();
+}
 
+public void ListEmployees(){
+            foreach (Employee employee in EmployeeList)
+            {
+                Console.WriteLine( $"{employee.FirstName} {employee.LastName} works for {Name} as {employee.Title} since {employee.StartDate}.");
+            }
+         }
 
-
-               
-     }
-
+        public void CompanyInfo(){
+            Console.WriteLine($"{Name} was founded on {CreatedOn}");
+        }
     
 }
 }
+
+// Create an instance of a company. Name it whatever you like.
+
+        // Create three employees
+
+        // Assign the employees to the company
+
+        /*
+            Iterate the company's employee list and generate the
+            simple report shown above
+        */
