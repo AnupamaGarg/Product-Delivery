@@ -1,0 +1,11 @@
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\bin\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.deps.json
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\bin\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.runtimeconfig.json
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\bin\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.runtimeconfig.dev.json
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\bin\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.dll
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\bin\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.pdb
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\obj\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.csprojAssemblyReference.cache
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\obj\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.csproj.CoreCompileInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\obj\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.AssemblyInfoInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\obj\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.AssemblyInfo.cs
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\obj\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.dll
+C:\Users\dolly\workspace\csharp\exercises\Classes\Classes-List-Employes-Working-At-Company\obj\Debug\netcoreapp2.2\Classes-List-Employes-Working-At-Company.pdb
